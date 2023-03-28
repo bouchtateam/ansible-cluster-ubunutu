@@ -7,3 +7,5 @@
 
 #3- execute the yaml as follow:   
     ansible-playbook k8s_workers.yml -k -K
+
+    https://subok-tech.com/installing-kubernetes-using-ansible-on-ubuntu-20-04/
